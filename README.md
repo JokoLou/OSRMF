@@ -98,6 +98,6 @@ Lou, J., et al. Optical–SAR Rice Mapping Framework (OSRMF): A phenology-based 
 
 Joko Lou
 
-Ningbo University / Zhejiang University
+Ningbo University
 
 Research Area: Agricultural Remote Sensing and Paddy Rice Mapping
