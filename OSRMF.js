@@ -153,7 +153,7 @@ var fv = fV.gt(0.6).unmask(0);
 
 // Calculate Final Index
 var OSDT = f1.multiply(f2).multiply(f3).multiply(fw).multiply(fh).multiply(fv);
-var riceMask = OSDT.gte(0.8);
+var riceMask = OSDT.gte(0.7);
 
 // Apply final clipping only to the output result
 var riceFinal = riceMask.updateMask(riceMask.neq(0)).clip(roi);
